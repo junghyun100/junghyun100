@@ -39,33 +39,6 @@
 
 ---
 
-### 📂 Featured Projects (Actual Activity)
-
-| Project | Description | Stack | Last Updated |
-|---------|-------------|-------|--------------|
-| [**junghyun100.github.io**](https://github.com/junghyun100/junghyun100.github.io) | 개인 기술 블로그 — 공부 기록 및 정리 | Astro, SCSS, TypeScript | ![Updated](https://img.shields.io/github/last-commit/junghyun100/junghyun100.github.io?style=flat-square&label=updated&color=5865F2) |
-| [**junghyun100-LLM-WIKI**](https://github.com/junghyun100/junghyun100-LLM-WIKI) | LLM 관련 지식 위키 — RAG, 프롬프팅, 파인튜닝 등 | Astro, TypeScript | ![Updated](https://img.shields.io/github/last-commit/junghyun100/junghyun100-LLM-WIKI?style=flat-square&label=updated&color=5865F2) |
-| [**LeetCode**](https://github.com/junghyun100/LeetCode) | LeetCode 문제 풀이 저장소 | Java | ![Updated](https://img.shields.io/github/last-commit/junghyun100/LeetCode?style=flat-square&label=updated&color=5865F2) |
-| [**Concurrency_Control**](https://github.com/junghyun100/Concurrency_Control) | 동시성 제어 스터디 및 실습 (Lock, CAS, Synchronizer) | Java | ![Updated](https://img.shields.io/github/last-commit/junghyun100/Concurrency_Control?style=flat-square&label=updated&color=5865F2) |
-| [**CHABIT**](https://github.com/junghyun100/CHABIT) | SSAFY Sub PJT II — 챌린지 서비스 | Vue, Spring Boot | ![Updated](https://img.shields.io/github/last-commit/junghyun100/CHABIT?style=flat-square&label=updated&color=5865F2) |
-
----
-
-### 🎯 Current Focus (Based on Recent Activity)
-
-- 📖 **LLM Engineering** — `junghyun100-LLM-WIKI` 최근 업데이트 (2026-07), RAG/프롬프팅 정리 중
-- ✍️ **Technical Writing** — 블로그 `junghyun100.github.io` 지속 업데이트 (2025-07)
-- 🧮 **Algorithm Practice** — `LeetCode` 꾸준히 풀이 중 (2025-10 최신)
-- ⚡ **Concurrency & Core Java** — `Concurrency_Control` 스터디 (2024-10, Lock-free, CAS)
-
----
-
-### 🏷️ Study Keywords (from repos)
-
-`Java` `Spring Boot` `JPA` `Redis` `Kafka` `Docker` `Kubernetes` `Algorithm` `Data Structure` `Concurrency` `JVM Internals` `LLM` `RAG` `Vector DB` `Prompt Engineering` `Vue` `TypeScript` `Astro`
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=junghyun100&color=5865F2&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
