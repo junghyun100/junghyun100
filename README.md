@@ -1,32 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=5865F2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Junghyun+%F0%9F%91%8B;Backend+Engineer+%7C+Study+Recorder;Building+things+that+matter" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/junghyun100">
-    <img src="https://img.shields.io/badge/GitHub-junghyun100-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://junghyun100.github.io">
-    <img src="https://img.shields.io/badge/Blog-junghyun100.github.io-FF6B6B?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" />
-  </a>
-  <a href="mailto:junghyun100@email.com">
-    <img src="https://img.shields.io/badge/Email-junghyun100-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/junghyun100">
-    <img src="https://img.shields.io/badge/LinkedIn-junghyun100-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,rust,go,python,postgresql,mongodb,redis,docker,kubernetes,aws,gcp,terraform,git,githubactions,linux,vim,java,spring" alt="Tech Stack" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <table align="center">
@@ -35,7 +6,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junghyun100&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junghyun100&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=380" alt="Top Languages" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junghyun100&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
 </table>
