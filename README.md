@@ -4,12 +4,8 @@
 
 <table align="center">
   <tr>
-    <td>
-      <img height="180em" src="assets/stats.svg" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img height="180em" src="assets/languages.svg" alt="Top Languages" />
-    </td>
+    <td><img height="180em" src="assets/stats.svg" alt="GitHub Stats" /></td>
+    <td><img height="180em" src="assets/languages.svg" alt="Top Languages" /></td>
   </tr>
 </table>
 
@@ -19,9 +15,7 @@
 
 <table align="center">
   <tr>
-    <td>
-      <img src="assets/streak.svg" alt="GitHub Streak" />
-    </td>
+    <td><img src="assets/streak.svg" alt="GitHub Streak" /></td>
   </tr>
 </table>
 
@@ -31,9 +25,7 @@
 
 <table align="center">
   <tr>
-    <td>
-      <img src="assets/heatmap.svg" alt="Activity Graph" />
-    </td>
+    <td><img src="assets/heatmap.svg" alt="Activity Graph" /></td>
   </tr>
 </table>
 
