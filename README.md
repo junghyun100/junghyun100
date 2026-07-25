@@ -64,15 +64,6 @@
 
 ---
 
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> 자동 업데이트: [blog workflow](https://github.com/junghyun100/junghyun100.github.io/actions/workflows/blog.yml)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=junghyun100&color=5865F2&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
