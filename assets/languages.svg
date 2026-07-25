@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+  <rect width="495" height="195" fill="#1a1b26" rx="8"/>
+  <text x="20" y="30" font-family="JetBrains Mono, monospace" font-size="14" font-weight="bold" fill="#c0caf5">Most Used Languages</text>
+
+  <rect x="20" y="50" width="455" height="14" fill="#24283b" rx="3"/>
+  <rect x="20" y="50" width="380" height="14" fill="#e34c26" rx="3"/>
+  <text x="30" y="60" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6">HTML</text>
+  <text x="470" y="60" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6" text-anchor="end">41.4%</text>
+
+  <rect x="20" y="66" width="455" height="14" fill="#24283b" rx="3"/>
+  <rect x="20" y="66" width="143" height="14" fill="#b07219" rx="3"/>
+  <text x="30" y="76" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6">Java</text>
+  <text x="470" y="76" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6" text-anchor="end">15.6%</text>
+
+  <rect x="20" y="82" width="455" height="14" fill="#24283b" rx="3"/>
+  <rect x="20" y="82" width="133" height="14" fill="#f1e05a" rx="3"/>
+  <text x="30" y="92" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6">JavaScript</text>
+  <text x="470" y="92" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6" text-anchor="end">14.5%</text>
+
+  <rect x="20" y="98" width="455" height="14" fill="#24283b" rx="3"/>
+  <rect x="20" y="98" width="127" height="14" fill="#42b883" rx="3"/>
+  <text x="30" y="108" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6">Vue</text>
+  <text x="470" y="108" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6" text-anchor="end">13.9%</text>
+
+  <rect x="20" y="114" width="455" height="14" fill="#24283b" rx="3"/>
+  <rect x="20" y="114" width="111" height="14" fill="#3178c6" rx="3"/>
+  <text x="30" y="124" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6">TypeScript</text>
+  <text x="470" y="124" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6" text-anchor="end">12.1%</text>
+
+  <rect x="20" y="130" width="455" height="14" fill="#24283b" rx="3"/>
+  <rect x="20" y="130" width="15" height="14" fill="#c6538c" rx="3"/>
+  <text x="30" y="140" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6">SCSS</text>
+  <text x="470" y="140" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6" text-anchor="end">1.7%</text>
+
+  <rect x="20" y="146" width="455" height="14" fill="#24283b" rx="3"/>
+  <rect x="20" y="146" width="7" height="14" fill="#563d7c" rx="3"/>
+  <text x="30" y="156" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6">CSS</text>
+  <text x="470" y="156" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6" text-anchor="end">0.8%</text>
+
+  <rect x="20" y="162" width="455" height="14" fill="#24283b" rx="3"/>
+  <rect x="20" y="162" width="1" height="14" fill="#f34b7d" rx="3"/>
+  <text x="30" y="172" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6">C++</text>
+  <text x="470" y="172" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6" text-anchor="end">0.1%</text>
+</svg>

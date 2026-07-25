@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+  <rect width="495" height="195" fill="#1a1b26" rx="8"/>
+  <text x="20" y="30" font-family="JetBrains Mono, monospace" font-size="14" font-weight="bold" fill="#c0caf5">junghyun100's GitHub Stats</text>
+
+  <!-- Total Repos -->
+  <rect x="20" y="45" width="140" height="55" fill="#24283b" rx="6"/>
+  <text x="30" y="70" font-family="JetBrains Mono, monospace" font-size="11" fill="#a9b1d6">Total Repositories</text>
+  <text x="30" y="90" font-family="JetBrains Mono, monospace" font-size="22" font-weight="bold" fill="#a9b1d6">8</text>
+
+  <!-- Total Stars -->
+  <rect x="175" y="45" width="140" height="55" fill="#24283b" rx="6"/>
+  <text x="185" y="70" font-family="JetBrains Mono, monospace" font-size="11" fill="#a9b1d6">Total Stars</text>
+  <text x="185" y="90" font-family="JetBrains Mono, monospace" font-size="22" font-weight="bold" fill="#9ece6a">0</text>
+
+  <!-- Total Forks -->
+  <rect x="330" y="45" width="140" height="55" fill="#24283b" rx="6"/>
+  <text x="340" y="70" font-family="JetBrains Mono, monospace" font-size="11" fill="#a9b1d6">Total Forks</text>
+  <text x="340" y="90" font-family="JetBrains Mono, monospace" font-size="22" font-weight="bold" fill="#a9b1d6">1</text>
+
+  <!-- Commits (estimate) -->
+  <rect x="20" y="115" width="140" height="55" fill="#24283b" rx="6"/>
+  <text x="30" y="140" font-family="JetBrains Mono, monospace" font-size="11" fill="#a9b1d6">Total Commits</text>
+  <text x="30" y="160" font-family="JetBrains Mono, monospace" font-size="22" font-weight="bold" fill="#a9b1d6">N/A</text>
+
+  <!-- Issues/PRs -->
+  <rect x="175" y="115" width="140" height="55" fill="#24283b" rx="6"/>
+  <text x="185" y="140" font-family="JetBrains Mono, monospace" font-size="11" fill="#a9b1d6">Contributions</text>
+  <text x="185" y="160" font-family="JetBrains Mono, monospace" font-size="22" font-weight="bold" fill="#5865f2">N/A</text>
+
+  <!-- Profile views -->
+  <rect x="330" y="115" width="140" height="55" fill="#24283b" rx="6"/>
+  <text x="340" y="140" font-family="JetBrains Mono, monospace" font-size="11" fill="#a9b1d6">Followers</text>
+  <text x="340" y="160" font-family="JetBrains Mono, monospace" font-size="22" font-weight="bold" fill="#a9b1d6">25</text>
+</svg>
