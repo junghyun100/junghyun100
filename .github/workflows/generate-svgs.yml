@@ -19,6 +19,11 @@ jobs:
           fetch-depth: 0
           sparse-checkout: false
 
+      - name: Verify checkout
+        run: |
+          ls -la .github/scripts/
+          test -f .github/scripts/generate_svgs.py && echo "Script found!" || echo "Script NOT found"
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
