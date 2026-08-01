@@ -391,7 +391,7 @@
 <rect x="750" y="57" width="11" height="11" fill="#26a641" rx="2"/>
 <rect x="750" y="73" width="11" height="11" fill="#39d353" rx="2"/>
 <rect x="750" y="89" width="11" height="11" fill="#161b22" rx="2"/>
-<rect x="750" y="105" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="750" y="105" width="11" height="11" fill="#006d32" rx="2"/>
 <rect x="750" y="121" width="11" height="11" fill="#161b22" rx="2"/>
 
   <text x="720" y="20" font-family="JetBrains Mono, monospace" font-size="8" fill="#a9b1d6">Less</text>

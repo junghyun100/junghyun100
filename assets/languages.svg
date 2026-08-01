@@ -6,7 +6,7 @@
   <rect x="20" y="50" width="455" height="14" fill="#24283b" rx="3"/>
   <rect x="20" y="50" width="380" height="14" fill="#3572A5" rx="3"/>
   <text x="30" y="60" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6">Python</text>
-  <text x="470" y="60" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6" text-anchor="end">27.9%</text>
+  <text x="470" y="60" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6" text-anchor="end">28.0%</text>
 
   <rect x="20" y="66" width="455" height="14" fill="#24283b" rx="3"/>
   <rect x="20" y="66" width="255" height="14" fill="#b07219" rx="3"/>
@@ -14,12 +14,12 @@
   <text x="470" y="76" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6" text-anchor="end">18.8%</text>
 
   <rect x="20" y="82" width="455" height="14" fill="#24283b" rx="3"/>
-  <rect x="20" y="82" width="250" height="14" fill="#3178c6" rx="3"/>
+  <rect x="20" y="82" width="249" height="14" fill="#3178c6" rx="3"/>
   <text x="30" y="92" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6">TypeScript</text>
   <text x="470" y="92" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6" text-anchor="end">18.4%</text>
 
   <rect x="20" y="98" width="455" height="14" fill="#24283b" rx="3"/>
-  <rect x="20" y="98" width="228" height="14" fill="#42b883" rx="3"/>
+  <rect x="20" y="98" width="227" height="14" fill="#42b883" rx="3"/>
   <text x="30" y="108" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6">Vue</text>
   <text x="470" y="108" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6" text-anchor="end">16.8%</text>
 
@@ -29,7 +29,7 @@
   <text x="470" y="124" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6" text-anchor="end">9.7%</text>
 
   <rect x="20" y="130" width="455" height="14" fill="#24283b" rx="3"/>
-  <rect x="20" y="130" width="52" height="14" fill="#e34c26" rx="3"/>
+  <rect x="20" y="130" width="53" height="14" fill="#e34c26" rx="3"/>
   <text x="30" y="140" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6">HTML</text>
   <text x="470" y="140" font-family="JetBrains Mono, monospace" font-size="10" fill="#a9b1d6" text-anchor="end">3.9%</text>
 
